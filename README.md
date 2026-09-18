@@ -27,7 +27,7 @@
 
 ## 二、三种使用方式
 
-1. **在线阅读（GitHub Pages）**：浏览器访问 <https://sghpedc5279.github.io/isad-textbook/>（已上线）。
+1. **在线阅读（GitHub Pages）**：浏览器访问 <https://kaifengyu55-hub.github.io/isad-textbook/>（已上线）。
 2. **本地直接打开**：下载仓库后双击 `index.html` 即可（相对链接，无需服务器）。
 3. **离线包**：下载 `数字教材_离线版.zip` 并解压，双击其中的 `index.html`。
 
