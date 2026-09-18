@@ -1,6 +1,6 @@
 # 《信息系统分析与设计》交互式数字教材
 
-> 🌐 **在线阅读（已上线）**：<https://sghpedc5279.github.io/isad-textbook/>
+> 🌐 **在线阅读（已上线）**：<https://kaifengyu55-hub.github.io/isad-textbook/>
 
 > 苏州大学 社会学院 ·《信息系统分析与设计》（ISAD）课程配套交互式数字教材
 > 以「智能体 / 低代码（扣子 Coze）」为主线的重构版，面向信息资源管理专业本科生。
